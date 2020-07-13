@@ -12,8 +12,10 @@ Even though there are more elements than just a ball, things like the pupil is s
 Therefore, I chose to go with an eyeball. To apply transformation, I decided to make a simple closed-eye symbol and translate it repeated it on the canvas.
 
 **Rules I used to create this artwork**
+
 I used three main strategy to create this. First, I used the function translate() and a while loop to create the eye pattern on the background. Second, I used
 a while loop to create all the graident effects by modifying the color and size value in the loop. Lastly, I also used the rotate() function to achieve the detailings in the eye. 
 
 **Difficulties**
+
 It was difficult to get the eyelashs on the background right. I tried to make the left lash and right lash symmetrical by calculating where precisely they will need to be, but I keep messing up the math and I eventually decided to eyeball it(no pun intended). Another difficulty is that when I was trying to draw the shadow, I set the opacity to 20 and wanted to create the shadow by slowly decreasing the size and overlapping these circles. The opacity somehow doesn't work on the default background - the parts that are not fully opague somehow shows up black. I worked around this by drawing a 500x500 square on the background as my background.
