@@ -6,7 +6,7 @@ it a little more complex and game like by having a certain requirement of how th
 my coding skill is not good enough that the paint program part alone takes up quite some time. Therefore, I decided to just make a drawing program. I made it so 
 that if you touch the girl's face or go too far away from her head, messages like "Ouch!" will pop up to give it more of a gaming element.
 
-To make this program, I used part of my self-portrait as the interfere. Then, using arrays and for loops, I made the 16 color options on top of the screen.
+To make this program, I used part of my self-portrait as the interface. Then, using arrays and for loops, I made the 16 color options on top of the screen.
 By manipulating mousepressed(), mousedragged(), and pixels functions, I was able to get the painting functions working. In order to make the text changes, I created 
 two boolean variables that start off as false. In mousepressed(), these varibles are changed to true if the position of the mouse is at the suitable places. 
 I then used if statement to have the draw function draw out different texts based on the variable values.
