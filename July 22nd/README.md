@@ -1,6 +1,10 @@
 **Assignment 4 - getting started with Arduino**
 
-![](eyeball.png)
+![](setup.jpg)
+
+![](light_on.gif)
+
+![](light_off.gif)
 
 **Inspirations**
 
