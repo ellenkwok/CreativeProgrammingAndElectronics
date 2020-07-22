@@ -19,7 +19,7 @@ As you can see in the gif, the lights turn on randomly when my hand cover the ph
 
 **Schematic**
 
-![](schematic.jpg)
+![](Schematic.jpg)
 
 **Method**
 
