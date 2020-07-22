@@ -1,23 +1,24 @@
 **Assignment 4 - getting started with Arduino**
 
+For this assignment, I wanted to make something that looks more festive and fun. I decided to create this by using a photoresistor to turn on different
+colors of LED lights randomly. The LED lights will also be blinking when they are turned on. I decided to have the lights turn on when it's dark because I feel like that makes more sense. 
+
+**Set up of the circuit**
+
 ![](setup.jpg)
+
+**How it works**
 
 ![](light_on.GIF)
 
+As you can see in the gif, the lights turn on randomly when my hand cover the photoresistor. 
+
+**How it looks under dim lighting**
+
 ![](light_off.GIF)
 
-**Inspirations**
-
-For this assignment, I did not want to view other artwork and wanted to come up with an idea on my own first. 
-(I did look at them after I came up with an idea tho) Since we need to use for loops, I started to think about the possibility 
-of mimicking gradient by using loops and modifying the color value and size. I started to think about what object would be best to practice this.
-I thought something spheric would work very well, but a plain ball or even orange would be quite boring. Eyeball is spherical and have some degree of details to it.
-Even though there are more elements than just a ball, things like the pupil is still circular and will not be too difficult to create a gradient effect for.
-Therefore, I chose to go with an eyeball. To apply transformation, I decided to make a simple closed-eye symbol and translate it repeated it on the canvas.
-
-**Rules I used to create this artwork**
-
-I used three main strategy to create this. First, I used the function translate() and a while loop to create the eye pattern on the background. Second, I used
-a while loop to create all the graident effects by modifying the color and size value in the loop. Lastly, I also used the rotate() function to achieve the detailings in the eye. 
+**Method**
+I did the blinking part with the help of the blinking without delay tutorial. I also used a random function to generate a random number for the slots to create the random effect.
 
 **Difficulties**
+I originally wanted to do fading instead of blinking, but I wasn't able to figure out how to fade without using the delay function. 
