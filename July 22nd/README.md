@@ -2,9 +2,9 @@
 
 ![](setup.jpg)
 
-![](light_on.gif)
+![](light_on.GIF)
 
-![](light_off.gif)
+![](light_off.GIF)
 
 **Inspirations**
 
