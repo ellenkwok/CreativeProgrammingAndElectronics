@@ -17,6 +17,7 @@ Breadboard setup
 ![](close-up2.jpg)
 
 **How it works**
+
 https://youtu.be/xGUsuMqLyn4
 
 **Schematic**
@@ -24,7 +25,9 @@ https://youtu.be/xGUsuMqLyn4
 ![](schematic-music.jpg)
 
 **Method**
+
 I started with connectinig the 3 light bulbs and the switches. Then, I connected these to the buzzer. In the code, whenever the switch is on, both the LED and buzzer will be turned on. I also wrote a function for the servo's rotation, which is called in the beginning of loop(). A random function is used to choose musics notes from an array for the fourth switch.
 
 **Difficulties**
+
 It was difficult to get 1)servo rotating, 2)LED lit up, and 3)the tunes playing all at the same time. I believe it is because of the for loops. Right now, when the servo rotates, it disrupts the tune/LED a slight bit eveen though I am not using delay() in my code. It was also difficult to just get everything on there without accidentally connecting circuits/have the metal touching and disrupts the circuit as the breadboard is relatively small.
