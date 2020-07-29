@@ -22,19 +22,19 @@ In order to improve my paint program project, I made the following addtion/modif
 
 **Screenshot of different pages**
 
-![]intro-page.png
+![](intro-page.png)
 
-![]instructions.png
+![](instructions.png)
 
-![]gameplay1.png
+![](gameplay1.png)
 
-![]gameplay2.png
+![](gameplay2.png)
 
-![]gameplay3.png
+![](gameplay3.png)
 
-![]gameplay4.png
+![](gameplay4.png)
 
-![]finish-game.png
+![](finish-game.png)
 
 **A short video to demonstrate how it works**
 
