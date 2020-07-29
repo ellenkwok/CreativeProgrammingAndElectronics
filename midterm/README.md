@@ -24,17 +24,31 @@ In order to improve my paint program project, I made the following addtion/modif
 
 ![](intro-page.png)
 
+Home page
+
 ![](instructions.png)
+
+Instruction page
 
 ![](gameplay1.png)
 
+Initial gaming page
+
 ![](gameplay2.png)
+
+Draw her hair!
 
 ![](gameplay3.png)
 
+Don't touch her face...
+
 ![](gameplay4.png)
 
+Don't leave her!
+
 ![](finish-game.png)
+
+Game over!
 
 **A short video to demonstrate how it works**
 
