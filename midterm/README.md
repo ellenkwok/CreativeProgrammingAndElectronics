@@ -1,7 +1,5 @@
 **Midterm Project**
 
-**documentation in progress** **check back later I will get these up soon**
-
 **My improvements to the project**
 
 In order to improve my paint program project, I made the following addtion/modification to my program:
@@ -30,13 +28,17 @@ In order to improve my paint program project, I made the following addtion/modif
 
 ![gameplay1.png]
 
-![gameplay1.png]
+![gameplay2.png]
+
+![gameplay3.png]
+
+![gameplay4.png]
 
 ![finish-game.png]
 
 **A short video to demonstrate how it works**
 
-link
+https://youtu.be/KKwPut7047c
 
 **Method, difficulties encountered**
 
