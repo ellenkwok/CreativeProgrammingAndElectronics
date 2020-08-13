@@ -12,7 +12,7 @@ When you open the program up, you will see a pond like so with koi fish swimming
 
 **Problems Encountered**
 
-When I was trying to incorporate the ultrasonic sensor, I found it difficult to make it work with the other sensors as a lot of examples on ultrasonic sensor uses the delay() function. I did not want to hold up other sensors for the ultrasonic sensor. In order to resolve this issue, I used this library called New Ping, which allows you to calculate distance without using the delay() function. I also found it difficult to edit the video for this presentation. The processing video ends up looking very choppy.
+When I was trying to incorporate the ultrasonic sensor, I found it difficult to make it work with the other sensors as a lot of examples on ultrasonic sensor uses the delay() function. I did not want to hold up other sensors for the ultrasonic sensor. In order to resolve this issue, I used this library called New Ping, which allows you to calculate distance without using the delay() function. I also found it difficult to edit the video for this presentation. The processing video ends up looking very choppy. I couldn't figure this out and decided to upload two versions of the video - an edited version with the Arduino board and subtitles; and an unedited version with only the processing video. The latter will be linked in the description box of the first one.
 
 In terms of the coding part, I found it difficult to implement a fish class and draw PImage for each fish instance. I couldn't get the image to show up or move the way I wanted it to - a lot of my problems arose around the loading image and drawing image part. I read through a lot of threads and examples online and was able to eventually figure it out. It was also slightly tricky to figure out how to keep track of the positions and acceleration of the fish as I needed to keep some of these variables constant and constantly update some of these.
 
@@ -46,6 +46,8 @@ Nice and soothing.
 
 [board.png]
 
-**Link to the video
+**Link to the video**
 
-uploading to youtube, will update link once it's ready
+https://youtu.be/SAoP1OT3Y-0
+
+*Note: This video is somehow very choppy only for the processing window part. I have linked an unedited smooth version of the processing video in the description box*
