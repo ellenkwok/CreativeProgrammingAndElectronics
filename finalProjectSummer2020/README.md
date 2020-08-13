@@ -52,7 +52,7 @@ A bonus picture of the cursor since the cursor doesn't show up in screenshots!
 
 **Arduino Board**
 
-![](board.png)
+![](board.jpg)
 
 **Link to the video**
 
