@@ -11,7 +11,10 @@ Photoresistor, potentiometer, button, ultrasonic sensor.
 When you open the program up, you will see a pond like so with koi fish swimming inside it. In order to control the swimming speed of these fish, you can turn the potentiometer. By changing how bright the surrounding is, you can change the brightness of the pond as the photoresistor will take in the data. When you click on a button, a bubble will emerge. The maximum bubbles you can have is 8 bubbles. The purpose of this piece is to make something nice and calming, therefore, if you get too close to the Arduino and try to mess with it, these bubbles will pop and become a flower. This is detected by the ultrasonic sensor as it measures your distance away from the sensor. It will also make a pop sound when it pops. The cursor is a goldfish. All of these elements and background in this program are drawn in another program(Clip studio art) and uploaded to Processing.
 
 **Problems Encountered**
+
 When I was trying to incorporate the ultrasonic sensor, I found it difficult to make it work with the other sensors as a lot of examples on ultrasonic sensor uses the delay() function. I did not want to hold up other sensors for the ultrasonic sensor. In order to resolve this issue, I used this library called New Ping, which allows you to calculate distance without using the delay() function. I also found it difficult to edit the video for this presentation. The processing video ends up looking very choppy.
+
+In terms of the coding part, I found it difficult to implement a fish class and draw PImage for each fish instance. I couldn't get the image to show up or move the way I wanted it to - a lot of my problems arose around the loading image and drawing image part. I read through a lot of threads and examples online and was able to eventually figure it out. It was also slightly tricky to figure out how to keep track of the positions and acceleration of the fish as I needed to keep some of these variables constant and constantly update some of these.
 
 **Schematic**
 
