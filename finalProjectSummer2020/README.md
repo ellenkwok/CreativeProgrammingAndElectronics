@@ -18,41 +18,41 @@ In terms of the coding part, I found it difficult to implement a fish class and 
 
 **Schematic**
 
-![fish-in-pond-schematic.jpg]
+![](fish-in-pond-schematic.jpg)
 
 **Screenshots of the program**
 
-![swimming.png]
+![](swimming.png)
 
 How the program initially looks like when opened.
 
-![dark.png]
+![](dark.png)
 
 Limiting light inputs.
 
-![bright.png]
+![](bright.png)
 
 Shining a flashlight over the photoresistor.
 
-![bubble.png]
+![](bubble.png)
 
 Pressing a button and adding a bubble to it.
 
-![bubblePop.png]
+![](bubblePop.png)
 
 Breaking the bubble with ultrasonic sensor.
 
-![bubbleFlower.png]
+![](bubbleFlower.png)
 
 Nice and soothing.
 
-![goldfishCursor.png]
+![](goldfishCursor.png)
 
 A bonus picture of the cursor since the cursor doesn't show up in screenshots!
 
 **Arduino Board**
 
-![board.png]
+![](board.png)
 
 **Link to the video**
 
