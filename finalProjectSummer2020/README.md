@@ -30,6 +30,10 @@ How the program initially looks like when opened.
 
 Limiting light inputs.
 
+[bright.png]
+
+Shining a flashlight over the photoresistor.
+
 [bubble.png]
 
 Pressing a button and adding a bubble to it.
@@ -41,6 +45,10 @@ Breaking the bubble with ultrasonic sensor.
 [bubbleFlower.png]
 
 Nice and soothing.
+
+[goldfishCursor.png]
+
+A bonus picture of the cursor since the cursor doesn't show up in screenshots!
 
 **Arduino Board**
 
